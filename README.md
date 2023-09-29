@@ -104,8 +104,10 @@ Here is an awesome resource from [patrickd](https://twitter.com/patrickd_de) who
 1.  Read Chapter 7 from “Mastering Ethereum”: [https://github.com/ethereumbook/ethereumbook/blob/develop/07smart-contracts-solidity.asciidoc](https://github.com/ethereumbook/ethereumbook/blob/develop/07smart-contracts-solidity.asciidoc)
 2.  Understand Solidity syntax and semantics implemented in OpenZeppelin’s ERC20 contract: [https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol)
 3.  Understand Solidity syntax and semantics implemented in OpenZeppelin’s ERC721 (NFT) contract: [https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/ERC721.sol](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/ERC721.sol)
-4.  Understand Solidity syntax and semantics implemented in OpenZeppelin’s security-related contracts Ownable, Pausable and ReentrancyGuard: [https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/access](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/access) and [https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/security](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/security)
-5.  Experiment with the various Solidity concepts using [https://remix.ethereum.org/](https://remix.ethereum.org/)
+4. Understand Solidity syntax and semantics implemented in OpenZeppelin’s ERC1155 contract: [https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC1155/ERC1155.sol](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC1155/ERC1155.sol)
+5. Understand Solidity syntax and semantics implemented in OpenZeppelin’s ERC777 & ERC4626 contracts
+6.  Understand Solidity syntax and semantics implemented in OpenZeppelin’s security-related contracts Ownable, Pausable and ReentrancyGuard: [https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/access](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/access) and [https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/security](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/security)
+7.  Experiment with the various Solidity concepts using [https://remix.ethereum.org/](https://remix.ethereum.org/)
 
 ### Quiz
 
@@ -376,7 +378,8 @@ Here is an awesome resource from [patrickd](https://twitter.com/patrickd_de) who
 2. Read the audit report along with the smart contracts to understand all the reported findings for Origin Dollar: [https://github.com/trailofbits/publications/blob/master/reviews/OriginDollar.pdf](https://github.com/trailofbits/publications/blob/master/reviews/OriginDollar.pdf "https://github.com/trailofbits/publications/blob/master/reviews/OriginDollar.pdf")
 3. Read the audit report along with the smart contracts to understand all the reported findings for Synthetix EtherCollateral: [https://github.com/sigp/public-audits/blob/master/synthetix/ethercollateral/review.pdf](https://github.com/sigp/public-audits/blob/master/synthetix/ethercollateral/review.pdf "https://github.com/sigp/public-audits/blob/master/synthetix/ethercollateral/review.pdf")
 4. Read the audit report along with the smart contracts to understand all the reported findings for Holdefi: [https://blog.openzeppelin.com/holdefi-audit](https://blog.openzeppelin.com/holdefi-audit "https://blog.openzeppelin.com/holdefi-audit")
-5. Stay updated with Ethereum security articles/news:
+5. Read all [CodeHawks](codehawks.com) past audit reports.
+6. Stay updated with Ethereum security articles/news:
    1. WeekInEthereumNews (security section): [https://weekinethereumnews.com/](https://weekinethereumnews.com/ "https://weekinethereumnews.com/")
    2. BlockThreat Newsletter: [https://www.blockthreat.io/](https://www.blockthreat.io/ "https://www.blockthreat.io/")
    3. Rekt: [https://rekt.news/](https://rekt.news/ "https://rekt.news/")
