@@ -101,13 +101,14 @@ Here is an awesome resource from [patrickd](https://twitter.com/patrickd_de) who
 
 ### Assignment
 
-1.  Read Chapter 7 from “Mastering Ethereum”: [https://github.com/ethereumbook/ethereumbook/blob/develop/07smart-contracts-solidity.asciidoc](https://github.com/ethereumbook/ethereumbook/blob/develop/07smart-contracts-solidity.asciidoc)
-2.  Understand Solidity syntax and semantics implemented in OpenZeppelin’s ERC20 contract: [https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol)
-3.  Understand Solidity syntax and semantics implemented in OpenZeppelin’s ERC721 (NFT) contract: [https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/ERC721.sol](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/ERC721.sol)
-4. Understand Solidity syntax and semantics implemented in OpenZeppelin’s ERC1155 contract: [https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC1155/ERC1155.sol](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC1155/ERC1155.sol)
-5. Understand Solidity syntax and semantics implemented in OpenZeppelin’s ERC777 & ERC4626 contracts
-6.  Understand Solidity syntax and semantics implemented in OpenZeppelin’s security-related contracts Ownable, Pausable and ReentrancyGuard: [https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/access](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/access) and [https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/security](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/security)
-7.  Experiment with the various Solidity concepts using [https://remix.ethereum.org/](https://remix.ethereum.org/)
+1.  Check out the Solidity Language Documentations: [https://docs.soliditylang.org/en/develop/](https://docs.soliditylang.org/en/develop/)
+2.  Read Chapter 7 from “Mastering Ethereum”: [https://github.com/ethereumbook/ethereumbook/blob/develop/07smart-contracts-solidity.asciidoc](https://github.com/ethereumbook/ethereumbook/blob/develop/07smart-contracts-solidity.asciidoc)
+3.  Understand Solidity syntax and semantics implemented in OpenZeppelin’s ERC20 contract: [https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol)
+4.  Understand Solidity syntax and semantics implemented in OpenZeppelin’s ERC721 (NFT) contract: [https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/ERC721.sol](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/ERC721.sol)
+5. Understand Solidity syntax and semantics implemented in OpenZeppelin’s ERC1155 contract: [https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC1155/ERC1155.sol](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC1155/ERC1155.sol)
+6. Understand Solidity syntax and semantics implemented in OpenZeppelin’s ERC777 & ERC4626 contracts
+7.  Understand Solidity syntax and semantics implemented in OpenZeppelin’s security-related contracts Ownable, Pausable and ReentrancyGuard: [https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/access](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/access) and [https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/security](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/security)
+8.  Experiment with the various Solidity concepts using [https://remix.ethereum.org/](https://remix.ethereum.org/)
 
 ### Quiz
 
@@ -401,6 +402,11 @@ Here is an awesome resource from [patrickd](https://twitter.com/patrickd_de) who
 
 1. Fuzzing and Invariants
 2. Formal Verification
+3. DeFi Applications
+   1. [Finematics - Youtube](https://www.youtube.com/@Finematics)
+   2. [WhiteBoardCrypto - Youtube](https://www.youtube.com/@WhiteBoardCrypto)
+   3. [https://teachyourselfcrypto.com/](https://teachyourselfcrypto.com/)
+4. Zero Knowledge Proofs - ZKP Security
 
 ---
 
